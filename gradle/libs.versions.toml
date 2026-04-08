@@ -42,6 +42,9 @@ tor-android-binary = "0.4.4.6"
 # Google Play Services
 gms-location = "21.3.0"
 
+# Splash Screen
+splashscreen = "1.0.1"
+
 # Security
 security-crypto = "1.1.0-beta01"
 
@@ -110,6 +113,9 @@ tor-android-binary = { module = "org.torproject:tor-android-binary", version.ref
 
 # Google Play Services
 gms-location = { module = "com.google.android.gms:play-services-location", version.ref = "gms-location" }
+
+# Splash Screen
+androidx-splashscreen = { module = "androidx.core:core-splashscreen", version.ref = "splashscreen" }
 
 # Security
 androidx-security-crypto = { module = "androidx.security:security-crypto", version.ref = "security-crypto" }

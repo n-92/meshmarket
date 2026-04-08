@@ -59,6 +59,10 @@ google-services.json
 # Keystore files
 *.jks
 *.keystore
+keystore.properties
+
+# Assets (graphics/branding)
+/assets/
 
 # Arti build artifacts (cloned repo and Rust build cache)
 tools/arti-build/.arti-source/
