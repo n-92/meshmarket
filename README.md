@@ -1,6 +1,6 @@
 # MeshMarket
 
-Decentralized mesh market and messaging based on [bitchat](https://github.com/nicholascross/bitchat) technology. Buy, sell, and chat over Bluetooth mesh — no internet, no accounts, encrypted.
+Decentralized mesh market and messaging based on [bitchat](https://github.com/permissionlesstech/bitchat) technology. Buy, sell, and chat over Bluetooth mesh — no internet, no accounts, encrypted.
 
 [<img alt="Get it on Google Play" height="60" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"/>](https://play.google.com/store/apps/details?id=com.uniktek.meshmarket)
 
@@ -100,7 +100,7 @@ Built with Kotlin and Jetpack Compose. Key components:
 - **Nordic BLE Library**: Reliable Bluetooth LE operations
 - **Foreground Service**: Background mesh connectivity
 
-Cross-platform compatible with [bitchat for iOS](https://github.com/nicholascross/bitchat).
+Cross-platform compatible with [bitchat for iOS](https://github.com/permissionlesstech/bitchat).
 
 ## Contributing
 
