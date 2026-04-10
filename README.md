@@ -80,6 +80,13 @@ cd meshmarket
 - **Ephemeral by Default**: Messages exist only in device memory
 - **Emergency Wipe**: Triple-tap logo to instantly clear all data
 
+## Child Safety
+
+MeshMarket has zero tolerance for child sexual abuse and exploitation (CSAE).
+See our [Child Safety Standards](CHILD_SAFETY_STANDARDS.md) for our published
+standards, in-app reporting mechanism, and child-safety point of contact, in
+compliance with Google Play's Child Safety Standards policy.
+
 ## Permissions
 
 | Permission | Reason |
